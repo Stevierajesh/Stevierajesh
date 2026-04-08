@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Stevie Rajesh
 ======================================================================================================================================
 
-Engineer at heart :)
+Engineer
 --------------------
 
 I build software systems that solve real problems, from full-stack applications to real-time platforms and developer tools. I’m especially interested in how systems come together end-to-end, from user interaction down to the infrastructure that powers it.
