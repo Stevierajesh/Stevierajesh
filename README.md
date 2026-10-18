@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 --------------------
 
-I build software systems that solve real problems, from full-stack applications to real-time platforms and developer tools. I’m especially interested in how systems come together end-to-end, from user interaction down to the infrastructure that powers it.
+I like to code 🙂
 
 * 🌍  I'm based in Columbus, OH, USA
 * ✉️  You can contact me at [stevierajesh@gmail.com](mailto:stevierajesh@gmail.com)
